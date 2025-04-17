@@ -170,6 +170,7 @@ docker compose up -d
 ## 🚀 Future Scope
 
 - 🔧 **GUI-based PDF Upload:** Add drag-and-drop or file upload UI for non-technical users.
+- 🤖 **Voice ChatBot Integration:** Add a voice-enabled chatbot for summaries.
 - 🌐 **Multilingual Support:** Integrate translation and multilingual search features.
 - 📄 **OCR Integration:** Use OCR to process scanned PDFs (e.g., using Tesseract or Google Vision API).
 - 📦 **Cloud Integration:** Upload parsed data directly to cloud storage (e.g., AWS S3 or Firebase).
